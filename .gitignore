@@ -1,0 +1,16 @@
+.DS_Store
+.env
+*.ignore
+*.log
+node_modules
+npm-debug.log* 
+/client/public/build/
+
+# Compiled binary addons (http://nodejs.org/api/addons.html)
+build/Release
+
+# Optional npm cache directory
+.npm
+
+# Optional REPL history
+.node_repl_history

@@ -3,7 +3,6 @@ import Header  from "./children/Header";
 import Search from "./children/Search";
 import Saved from "./children/Saved";
 
-
 //define class
 class Main extends React.Component {
 constructor(props) {
